@@ -1,0 +1,11 @@
+.sum{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.sum img{
+    width:50px;
+    border-radius: 50%;
+}

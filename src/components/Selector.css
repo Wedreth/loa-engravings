@@ -1,0 +1,8 @@
+select.form-select, select.form-select:disabled{
+    background-color: #adb5bd;
+    border-color: #adb5bd;
+}
+option, select.form-select.active{
+    background-color: #fff;
+    border-color: #ced4da;
+}
