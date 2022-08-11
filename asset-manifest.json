@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/loa-engravings/static/css/main.269dfe55.css",
-    "main.js": "/loa-engravings/static/js/main.9027ec40.js",
+    "main.js": "/loa-engravings/static/js/main.e4cd930e.js",
     "static/js/787.28cb0dcd.chunk.js": "/loa-engravings/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/loa-engravings/index.html",
     "main.269dfe55.css.map": "/loa-engravings/static/css/main.269dfe55.css.map",
-    "main.9027ec40.js.map": "/loa-engravings/static/js/main.9027ec40.js.map",
+    "main.e4cd930e.js.map": "/loa-engravings/static/js/main.e4cd930e.js.map",
     "787.28cb0dcd.chunk.js.map": "/loa-engravings/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.269dfe55.css",
-    "static/js/main.9027ec40.js"
+    "static/js/main.e4cd930e.js"
   ]
 }
